@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://sundeepkamath.github.io/
-baseurl: /blog/
+url: http://sundeepkamath.github.io
+baseurl: /
 title: Sundeep Kamath's Coding blog
 author: Sundeep Kamath
 description: Personal blog #and resume
