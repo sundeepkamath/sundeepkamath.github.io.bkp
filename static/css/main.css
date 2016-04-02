@@ -191,6 +191,14 @@ div.footer{
   float: left; }
   .site-title, .site-title:visited {
     color: #424242; }
+    
+.site-header {
+  /*border-top: 5px solid #424242;*/
+  border-bottom: 1px solid #424242;
+  min-height: 30px;
+  position: relative; }
+  
+
 /* Set the fixed height of the footer here */
 /*.footer {
   height: 50px;
