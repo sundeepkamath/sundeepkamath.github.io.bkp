@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Developing a ASP.Net web application using .Net core"
-date:   2016-05-27 16:03:00 +0530
+date:   2016-05-28 16:03:00 +0530
 categories: 
 - .Net Core
 - Linux
@@ -12,7 +12,7 @@ tags:
 - Asp.Net Core
 ---
 
-In my [earlier post](http://sundeepkamath.in/2016/05/27/developing-a-net-core-console-application-on-linux) we had seen how we can create a **console application** using the new **.Net core** libraries.
+In my [earlier post]({{site.url}}/developing-a-net-core-console-application-on-linux.html) we had seen how we can create a **console application** using the new **.Net core** libraries.
 Moving further, we'll now see how we can use the same .Net core cross platform libraries to develop and run a basic Hello World **web application** on **Linux**(I'll be using **Ubuntu 14.04** in this example).
 
 We had already installed **Visual Studio Code** and **.Net core libraries** in the earlier post.
